@@ -150,14 +150,18 @@ R、F、M 各维度按五分位打分（1~5）。
 ## 6. 多维标签可视化
 
 ### 6.1 旭日图（人数维度）
-[sunburst_by_count.html](https://github.com/user-attachments/files/23654984/sunburst_by_count.html)
+<img width="944" height="774" alt="image" src="https://github.com/user-attachments/assets/8a82d517-f143-448b-bae9-34bb27fde463" />
+
+
+
 
 
 ### 6.2 树状图（金额贡献）
 
-![Treemap Monetary](./figures/treemap_by_monetary.png)
+<img width="1834" height="820" alt="image" src="https://github.com/user-attachments/assets/522946d2-e066-4e45-bbc1-9b4215fa1097" />
 
----
+
+
 
 ## 7. 用户洞察总结（Insights）
 
